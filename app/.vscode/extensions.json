@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "christian-kohler.npm-intellisense",
+        "dbaeumer.vscode-eslint",
+    ],
+}
